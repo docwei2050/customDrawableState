@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="AAAAA">
+        <attr name="state_message_unread" format="boolean"/>
+        <attr name="state_message_read" format="boolean"/>
+    </declare-styleable>
+
+</resources>
